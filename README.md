@@ -1,6 +1,6 @@
 # 💫 About Me:
 i'm oussama qasdane , i'm a web full stuck student, and this is my github account where i public some of my projects
-##i'm currently learning
+## i'm currently learning
 
 
 ## 🌐 Socials:
